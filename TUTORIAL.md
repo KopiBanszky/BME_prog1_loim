@@ -1,6 +1,6 @@
 # LEGYEN ÖN IS MILLIOMOS
 ## Felhasználó útmutató
-### Bánszky Koppány - KK4UWP
+### Bánszky Koppány
 
 Belépéskor, amennyiben a program nem ismeri fel, meg kell adni a csatolt loim.csv fájl útvonalát, illetve a sorok.csv fájl útvonalát.
 
