@@ -1,6 +1,6 @@
 # LEGYEN ÖN IS MILLIOMOS
 ## dokumentáció
-### Bánszky Koppány - KK4UWP
+### Bánszky Koppány
 
 ## Program fájlszerkezete:
 ```js
@@ -414,4 +414,4 @@ Page_Func stat_menu_all(void *param);
 ```
 
 
-## Bánszky Koppány - KK4UWP
+## Bánszky Koppány
