@@ -1,0 +1,3 @@
+F:/Kopi/BME/Progalap/legyen_on_is_milliomos/cmake-build-debug/CMakeFiles/legyen_on_is_milliomos.dir
+F:/Kopi/BME/Progalap/legyen_on_is_milliomos/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Kopi/BME/Progalap/legyen_on_is_milliomos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

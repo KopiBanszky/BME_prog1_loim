@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/source/loim.csv" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/source/sorok.csv" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/libs/read_data.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/libs/utility.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/pages/choose_question.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/pages/main_menu.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/pages/name_page.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/pages/pause_page.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/pages/row_question_page.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/pages/settings_menu.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/pages/stat_page.c" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/source/loim.csv" charset="windows-1250" />
+  </component>
+</project>
