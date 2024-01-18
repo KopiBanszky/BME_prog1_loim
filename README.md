@@ -1,6 +1,6 @@
 # LEGYEN ÖN IS MILLIOMOS
 ## specifikáció
-### Bánszky Koppány - KK4UWP
+### Bánszky Koppány
 
 ## Alap működés
 
@@ -153,6 +153,6 @@ A főmenübe ekkor az `Esc` billentyű lenyomásával lehessen.
 
 
 
-### Bánszky Koppány - KK4UWP
+### Bánszky Koppány
 
 
